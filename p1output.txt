@@ -1,1 +1,10 @@
+gcc -g p1original.c -lm
+ ./a.out
+Enter the points x1,y1,x2,y2
+1
+1
+2
+2
+The distance between two points (1.000000,2.000000)and (1.000000,2.000000) is 1.414214 
+
 
