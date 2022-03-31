@@ -16,7 +16,7 @@ int is_prime(int n)
      }
       else
      {
-       printf("Prime");
+        printf("Prime");
      }
     }
 }
